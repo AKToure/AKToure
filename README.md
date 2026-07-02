@@ -22,7 +22,7 @@
 
 ## 👤 About Me
 
-I'm **[Your Name]**, an engineering student at **Université de Technologie de Troyes (UTT)**, working at the intersection of **quantitative finance, stochastic modeling, and scientific computing**.
+I'm **Alpha Kabinet TOURE**, an engineering student at **Université de Technologie de Troyes (UTT)**, working at the intersection of **quantitative finance, stochastic modeling, and scientific computing**.
 
 My research spans **portfolio optimization, financial machine learning, quantitative risk analysis, and Bayesian methods**. I founded two interconnected initiatives — **Alpha Stochastic Research** and **OrunMila** — built around a single conviction: quantitative research should be rigorous, reproducible, and openly shared.
 
