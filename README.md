@@ -1,92 +1,107 @@
-# Hi there 👋
+<div align="center">
 
-I'm an Engineering student at University of technology of troye (UTT) with a strong interest in quantitative finance, stochastic modeling, quantitative risk analysis, portfolio optimization, and machine learning.
+<br>
 
-My work focuses on developing mathematically rigorous and reproducible methods at the intersection of mathematics, statistics, artificial intelligence, and financial engineering.
+<h2>
+  <strong> Alpha Stochastic Research</strong> &nbsp;&nbsp; ✦ &nbsp;&nbsp; <strong> OrunMila</strong>
+</h2>
 
----
+<br>
 
-## 🔬 Research Interests
+### Mathematics Explains. Statistics Validates. Open Science Accelerates.
 
-* Quantitative Finance
-* Quantitative Risk Analysis
-* Portfolio Optimization
-* Financial Machine Learning
-* Stochastic Processes
-* Financial Econometrics
-* Time Series Analysis
-* Statistical Learning
-* Scientific Computing
+[![GitHub Followers](https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Follow&style=for-the-badge&color=2ea44f)](https://github.com/[YOUR_USERNAME])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/[YOUR_LINKEDIN_ID])
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-FF6719?style=for-the-badge&logo=substack)](https://[YOUR_SUBSTACK].substack.com)
 
----
+<br>
 
-## 🏢 Organizations
-
-### Alpha Stochastic Research
-
-Founder of **Alpha Stochastic Research**, an independent quantitative research organization dedicated to financial mathematics, stochastic modeling, quantitative risk analysis, and financial machine learning.
-
-Its mission is to publish rigorous, reproducible, and openly accessible research through technical articles, mathematical derivations, and practical implementations.
-
-### OrunMila
-
-Founder of **OrunMila**, a decentralized research platform designed to accelerate scientific collaboration.
-
-OrunMila aims to make research more transparent and accessible by enabling students and researchers to publish ideas, collaborate openly, receive community feedback, and share knowledge beyond the constraints of traditional publishing workflows.
+</div>
 
 ---
 
-## 🚀 Projects
+## 👤 About Me
 
-Most of my repositories focus on the practical implementation of quantitative research, including:
+I am **Alpha Kabinet TOURE**, an Engineering Student at **Université de Technologie de Troyes (UTT)**.
 
-* Portfolio Optimization
-* Quantitative Risk Models
-* Financial Machine Learning
-* Stochastic Modeling
-* Backtesting Frameworks
-* Time Series Forecasting
-* Scientific Computing
-* Research Tools
+Driven by a profound interest in quantitative finance, I specialize in stochastic modeling, financial machine learning, quantitative risk analysis, and advanced scientific computing. I am the founder of both **Alpha Stochastic Research** and **OrunMila**—two interconnected initiatives dedicated to rigorous, transparent, and reproducible scientific research.
 
 ---
 
-## 📚 Scientific Writing
+## 📊 GitHub Analytics & Activity
 
-Alongside software development, I write technical articles and research papers exploring topics such as quantitative finance, stochastic modeling, portfolio construction, financial machine learning, and mathematical risk analysis.
+<div align="center">
+  
+  <!-- Global Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%">
 
-My objective is to make advanced quantitative concepts rigorous, reproducible, and accessible through open scientific communication.
+  <br><br>
 
----
+  <!-- Dynamic GitHub Stats & Top Languages -->
+  <a href="https://github.com/[YOUR_USERNAME]">
+    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  </a>
+  <a href="https://github.com/[YOUR_USERNAME]">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  </a>
 
-## 🌱 Currently Learning
-
-* Advanced Portfolio Theory
-* Stochastic Calculus
-* Bayesian Statistics
-* Financial Econometrics
-* Reinforcement Learning
-* Large Language Models for Scientific Research
-
----
-
-## 🤝 Open to Collaborate
-
-I welcome collaborations in:
-
-* Quantitative Research
-* Financial Machine Learning
-* Risk Modeling
-* Scientific Computing
-* Open Science
-* Python Development
+</div>
 
 ---
 
-## 📫 Connect
+## 🛠️ Scientific Stack & Competencies
 
-Feel free to connect through LinkedIn or follow the work published by **Alpha Stochastic Research**.
+<div align="center">
+
+**Programming Languages** <br>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+
+**Mathematics & Machine Learning** <br>
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+[![JAX](https://img.shields.io/badge/JAX-000000?style=for-the-badge&logo=google&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAEE?style=for-the-badge&logo=scipy&logoColor=white)](#)
+[![CVXPY](https://img.shields.io/badge/CVXPY-505050?style=for-the-badge&logoColor=white)](#)
+
+**Infrastructure & Tooling** <br>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](#)
+
+</div>
 
 ---
 
-> *"Research should be rigorous, reproducible, and openly shared."*
+## 🏛️ Organizations & Initiatives
+
+### [Alpha Stochastic Research](#)
+An independent research organization dedicated to advancing quantitative finance.
+*   **Mission:** To democratize quantitative finance by publishing rigorous technical papers, transparent mathematical derivations, and open-source reproducible implementations.
+
+### [OrunMila](#)
+A decentralized research infrastructure engineered for the future of scientific collaboration.
+*   **Mission:** To guarantee transparent publishing, facilitate open peer review, and ensure the eternal preservation of scientific knowledge.
+
+---
+
+## 🔬 Current Research & Publications
+
+**Core Research Focus:** Portfolio Optimization, Bayesian Allocation, Financial Machine Learning, Quantitative Risk Modeling, and Market Microstructure.
+
+| Project / Publication | Status | Category |
+| :--- | :--- | :--- |
+| **Portfolio Optimization Engine** | 🔒 *Private Alpha* | Code Repository |
+| **Financial Machine Learning Models** | 🔒 *Private Alpha* | Code Repository |
+| **Modern Portfolio Theory Revisited** | ⏳ *Drafting* | Paper - Alpha Stochastic |
+| **Hidden Markov Models in Finance** | 🔍 *Active Research* | Article - Substack |
+| **Bayesian Portfolio Allocation** | 📅 *Planned* | Article - Medium |
+
+<br>
+
+> *Research is valuable only when it is rigorous, reproducible, and openly shared.*
+
+<div align="center">
+  <i>Scientia potentia est.</i>
+</div>
