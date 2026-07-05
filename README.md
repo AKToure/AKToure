@@ -78,9 +78,9 @@ My objective is to build reproducible quantitative methodologies that bridge rig
 
 <tr>
 
-<td width="50%">
+<td width="30%">
 
-## Alpha Stochastic Research
+## Alpha Stochastic Research · Founder & CEO
 
 Independent quantitative finance research laboratory dedicated to
 
@@ -93,16 +93,28 @@ Independent quantitative finance research laboratory dedicated to
 
 </td>
 
-<td width="50%">
+<td width="30%">
 
-## OrunMila
+## CrunchDAO · DAO Member & Quant Research Contributor
 
-Scientific publishing infrastructure dedicated to
+Global investment management firm specializing in quantitative investing.
 
-- Open Science
-- Reproducible Research
-- Transparent Peer Review
-- Scientific Knowledge Preservation
+
+- systematic strategies
+- multi-asset portfolio management
+
+</td>
+
+<td width="30%">
+
+## D+A Strategies · Quant Trainee
+
+Decentralized AI and quantitative research community where data scientists develop predictive models for financial markets.
+
+
+- Data Science
+- multi-asset portfolio management
+- Risk Management
 
 </td>
 
@@ -139,10 +151,9 @@ Risk Analysis
 ### Behavioural Segmentation & Institutional Equilibrium
 
 **Area**
-
-Behavioural Economics  
+Artificial Intelligence 
 Stochastic Processes  
-Quantitative Finance
+Probability
 
 <br>
 
@@ -163,20 +174,22 @@ Quantitative Finance
 Portfolio Optimization  
 Financial Econometrics
 
+
 <br>
 
-<img src="https://img.shields.io/badge/Status-Draft-6B7280?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Under%20Review-orange?style=flat-square"/>
 
 </td>
 
 <td width="50%">
 
-### Hidden Markov Models for Financial Regime Detection
+### Hierarchical Risk Parity (HRP) 
 
 **Area**
 
-Machine Learning  
+Risk Management 
 Time Series Analysis
+Financial Markets
 
 <br>
 
@@ -190,7 +203,7 @@ Time Series Analysis
 
 <td width="50%">
 
-### Market-to-Model Framework
+### Deep Hedging
 
 **Area**
 
@@ -198,23 +211,23 @@ Quantitative Research Methodology
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Ongoing-16A34A?style=flat-square"/>
 
 </td>
 
 <td width="50%">
 
-### Quantitative Risk Analytics
+### Agentic Trading Agent
 
 **Area**
 
-Market Risk  
+Trading
 Model Validation  
 Financial Regulation
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Ongoing-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-Draft-9333EA?style=flat-square"/>
 
 </td>
 
@@ -249,6 +262,7 @@ Upcoming publications through
 - arXiv
 - Substack
 - Medium
+- DeSci Labs
 
 ---
 
@@ -257,10 +271,11 @@ Upcoming publications through
 | Project | Description |
 |:--------|:------------|
 | **Alpha Stochastic Research** | Research laboratory |
-| **Market-to-Model** | Quantitative research framework |
+| **Probabilistic Framework for Cognitive Offloading Risk** | Ai Cognitive Segmentation |
+| **Behavioural Segmentation & Institutional Equilibrium** | AI Cognitive Segmentation |
 | **Portfolio Optimization Engine** | Systematic allocation models |
-| **Quantitative Risk Analytics** | Financial risk toolbox |
-| **Financial Machine Learning Toolkit** | Research implementations |
+| **Hierarchical Risk Parity (HRP)** | Financial risk toolbox |
+| **Deeep Hedging** | Research implementations |
 
 ---
 
