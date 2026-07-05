@@ -2,7 +2,7 @@
 
 # Alpha Kabinet TOURE
 
-### Founder · Alpha Stochastic Research · OrunMila
+### Founder & CEO · Alpha Stochastic Research | Quant Trainee · D+A Strategies
 
 **Advancing Quantitative Finance through Mathematics, Statistics and Open Science**
 
@@ -60,9 +60,15 @@ Decentralized scientific publishing infrastructure promoting transparent peer re
 
 | Research Area | Status |
 |---|---|
-| Portfolio Optimization Engine | Private |
-| Financial Machine Learning | Active |
-| Bayesian Portfolio Allocation | Draft |
+| A Probabilistic Framework for Cognitive
+Offloading Risk
+Assessment in Generative AI-Assisted
+Academic Environments | Review |
+| A General Stochastic Framework
+for Behavioural Segmentation and
+Institutional Equilibrium Analysis | Writing |
+| An Empirical Analysis of Diversification versus
+Optimization | Draft |
 | Hidden Markov Models | Writing |
 | Market-to-Model Framework | Active |
 | Quantitative Risk Analytics | Ongoing |
@@ -74,7 +80,6 @@ Decentralized scientific publishing infrastructure promoting transparent peer re
 | Project | Description |
 |---|---|
 | Alpha Stochastic Research | Research organization |
-| OrunMila | Decentralized research platform |
 | Market-to-Model | Quantitative research environment |
 | Portfolio Optimization Engine | Systematic allocation framework |
 
