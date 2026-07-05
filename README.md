@@ -23,7 +23,7 @@
 
 ## About
 
-Alpha Kabinet TOURE is an engineering student at the Université de Technologie de Troyes (UTT) and founder of **Alpha Stochastic Research** and **OrunMila**.
+Alpha Kabinet TOURE is an engineering student at the Université de Technologie de Troyes (UTT) and founder of **Alpha Stochastic Research** 
 
 His work focuses on quantitative finance, stochastic modeling, quantitative risk analysis, portfolio optimization, financial machine learning and reproducible computational research. His long-term objective is to contribute to modern quantitative finance through open scientific research and open-source software.
 
