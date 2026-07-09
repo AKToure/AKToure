@@ -59,7 +59,7 @@ My objective is to build reproducible quantitative methodologies that bridge rig
 
 <div align="center">
 
-## Market → Model → Insight → Decision
+## Research → Modelling → Analysis → Impact
 
 </div>
 
