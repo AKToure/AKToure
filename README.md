@@ -323,13 +323,40 @@ Current and upcoming research outputs will be shared through:
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AKToure&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats">
+<table>
+<tr>
+<td align="center" width="50%">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKToure&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
+<strong>Research Profile</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20Source-Research-0A2540?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/Public%20Repositories-ASR%20Research-111827?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/Focus-Quantitative%20Finance-1E3A8A?style=for-the-badge">
+
+</td>
+<td align="center" width="50%">
+
+<strong>Current Focus</strong>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Active-Bachelier%201900-16A34A?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/Active-VaR%20vs%20CVaR-16A34A?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/Building-ASR%20Ecosystem-7C3AED?style=for-the-badge">
+
+</td>
+</tr>
+</table>
 
 </div>
 
