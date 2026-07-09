@@ -2,8 +2,8 @@
 
 # Alpha Kabinet TOURE
 
-### Founder & CEO · Alpha Stochastic Research  
-### Quant Trainee · D+A Strategies
+### Founder & Researcher · Alpha Stochastic Research  
+### Trainee · D+A Strategies
 
 <p>
 <i>Advancing Quantitative Finance through Mathematics, Statistics, Machine Learning and Open Science</i>
