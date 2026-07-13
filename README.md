@@ -63,7 +63,7 @@ My objective is to develop rigorous and reproducible quantitative methodologies 
 |---|---|---|
 | **Alpha Stochastic Research** | Founder & CEO | Quantitative finance, stochastic modelling, open science |
 | **D+A Strategies** | Quant Research Trainee | Quantitative research, portfolio analytics, financial modelling |
-| **CrunchDAO** | DAO Member & Quant Research Contributor | Predictive modelling, financial data science, collaborative research |
+
 
 ---
 
