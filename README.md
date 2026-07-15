@@ -316,7 +316,7 @@ Current and upcoming research outputs will be shared through:
 | **Alpha Stochastic Research** | Official research laboratory publications and project releases |
 | **GitHub** | Reproducible code, notebooks, documentation and open-source research |
 | **SSRN** | Working papers and preprints |
-| **arXiv** | Technical manuscripts when appropriate |
+| **Zenodo** | Technical manuscripts when appropriate |
 | **Substack** | Research notes and explanatory articles |
 | **Medium** | Public-facing quantitative finance articles |
 | **DeSci Labs** | Open science and decentralized research dissemination |
