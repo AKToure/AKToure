@@ -42,6 +42,15 @@
 <a href="https://medium.com/@alpha.stochastic.research">
   <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white">
 </a>
+<a href="https://orcid.org/0009-0006-0745-0380">
+  <img src="https://img.shields.io/badge/ORCID-0009--0006--0745--0380-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+</a>
+<a href="https://zenodo.org/communities/stochastic-research">
+  <img src="https://img.shields.io/badge/Zenodo-ASR%20Community-1682D4?style=for-the-badge">
+</a>
+<a href="https://discord.gg/B82eRmmkrx">
+  <img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
 </div>
 
@@ -84,6 +93,32 @@ My objective is to develop rigorous and reproducible quantitative methodologies 
 
 ---
 
+## Published Research and Software Releases
+
+| Output | Type | Status | Persistent identifier |
+|---|---|---|---|
+| **Bachelier’s Theory of Speculation Revisited: A Reproducible Reconstruction of the Origins of Quantitative Finance** | Preprint | Published on Zenodo | [DOI: 10.5281/zenodo.21385499](https://doi.org/10.5281/zenodo.21385499) |
+| **Alpha Stochastic Research: Open Research and Reproducibility Framework** | Research report | Published on Zenodo | [DOI: 10.5281/zenodo.21379982](https://doi.org/10.5281/zenodo.21379982) |
+| **asr-open-sc v0.3.2** | Open-source software | Released and archived on Zenodo | [DOI: 10.5281/zenodo.21382430](https://doi.org/10.5281/zenodo.21382430) |
+
+> **Publication status:** The Bachelier preprint is publicly available on Zenodo. An SSRN submission is planned, but no SSRN identifier is claimed until the SSRN record is public.
+
+<div align="center">
+
+<a href="https://doi.org/10.5281/zenodo.21385499">
+  <img src="https://img.shields.io/badge/Bachelier%20Preprint-10.5281%2Fzenodo.21385499-1682D4?style=for-the-badge">
+</a>
+<a href="https://doi.org/10.5281/zenodo.21379982">
+  <img src="https://img.shields.io/badge/ASR%20Framework-10.5281%2Fzenodo.21379982-1682D4?style=for-the-badge">
+</a>
+<a href="https://doi.org/10.5281/zenodo.21382430">
+  <img src="https://img.shields.io/badge/asr--open--sc%20v0.3.2-10.5281%2Fzenodo.21382430-1682D4?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
 ## Active Research Projects
 
 <table>
@@ -92,14 +127,18 @@ My objective is to develop rigorous and reproducible quantitative methodologies 
 
 ### Bachelier 1900 — Theory of Speculation
 
-Reproducible implementation and analysis of Louis Bachelier’s foundational work on financial speculation, Brownian motion and option pricing.
+Published reproducible reconstruction of Louis Bachelier’s foundational work on financial speculation, arithmetic Brownian motion and option pricing. The preprint is archived on Zenodo, while the accompanying Python package remains under active maintenance and development.
 
 **Areas:**  
 Quantitative Finance · Financial Mathematics · Brownian Motion · Option Pricing
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Active-16A34A?style=flat-square">
+<img src="https://img.shields.io/badge/Preprint-Published-16A34A?style=flat-square">
+<img src="https://img.shields.io/badge/Package-Active-2563EB?style=flat-square">
+<a href="https://doi.org/10.5281/zenodo.21385499">
+  <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21385499-1682D4?style=flat-square">
+</a>
 <img src="https://img.shields.io/badge/ASR%20Classics-0A2540?style=flat-square">
 
 </td>
@@ -259,16 +298,18 @@ ASR focuses on:
 
 ## Open-Source Research
 
-| Project | Description | Status |
-|---|---|---|
-| **ASR Organization Profile** | Community health files and institutional profile for Alpha Stochastic Research | Active |
-| **ASR Theory of Speculation** | Reproducible implementation of Louis Bachelier’s 1900 theory | Active |
-| **VaR versus CVaR Framework** | Extreme tail risk and regulatory risk measurement framework | Active |
-| **Portfolio Optimization Engine** | Systematic allocation and portfolio construction research | Planned |
-| **Hierarchical Risk Parity** | Risk-based portfolio allocation and clustering methods | Research |
-| **Deep Hedging Research** | Machine learning methods for hedging and derivatives | Research |
-| **Cognitive Offloading Risk** | Probabilistic framework for AI and cognitive risk modelling | Research |
-| **Agentic Trading Systems** | Research framework for autonomous trading systems | Draft |
+| Project | Description | Status | DOI / Repository |
+|---|---|---|---|
+| **ASR Open Research and Reproducibility Framework** | Institutional framework for transparent, reproducible and open quantitative research | Published | [10.5281/zenodo.21379982](https://doi.org/10.5281/zenodo.21379982) |
+| **asr-open-sc** | Shared registry and infrastructure for the ASR open-science Python ecosystem | **v0.3.2 released** | [10.5281/zenodo.21382430](https://doi.org/10.5281/zenodo.21382430) |
+| **ASR Theory of Speculation** | Reproducible implementation and modern reconstruction of Bachelier’s 1900 theory | Preprint published · package active | [10.5281/zenodo.21385499](https://doi.org/10.5281/zenodo.21385499) |
+| **ASR Organization Profile** | Community health files and institutional profile for Alpha Stochastic Research | Active | [GitHub organization](https://github.com/Alpha-Stochastic-Research) |
+| **VaR versus CVaR Framework** | Extreme tail-risk and regulatory risk measurement framework | Active research | DOI pending publication |
+| **Portfolio Optimization Engine** | Systematic allocation and portfolio construction research | Planned | Not yet published |
+| **Hierarchical Risk Parity** | Risk-based portfolio allocation and clustering methods | Research | Not yet published |
+| **Deep Hedging Research** | Machine-learning methods for hedging and derivatives | Research | Not yet published |
+| **Cognitive Offloading Risk** | Probabilistic framework for AI and cognitive-risk modelling | Research | Not yet published |
+| **Agentic Trading Systems** | Research framework for autonomous trading systems | Draft | Not yet published |
 
 ---
 
@@ -309,17 +350,16 @@ ASR focuses on:
 
 ## Publications and Research Channels
 
-Current and upcoming research outputs will be shared through:
-
-| Channel | Purpose |
+| Channel | Current status and purpose |
 |---|---|
-| **Alpha Stochastic Research** | Official research laboratory publications and project releases |
-| **GitHub** | Reproducible code, notebooks, documentation and open-source research |
-| **SSRN** | Working papers and preprints |
-| **Zenodo** | Technical manuscripts when appropriate |
-| **Substack** | Research notes and explanatory articles |
-| **Medium** | Public-facing quantitative finance articles |
-| **DeSci Labs** | Open science and decentralized research dissemination |
+| **Zenodo** | Active public archive for ASR papers, reports and software releases. [Visit the ASR community](https://zenodo.org/communities/stochastic-research). |
+| **GitHub** | Active source for reproducible code, notebooks, documentation, issue tracking and open-source research. |
+| **ORCID** | Persistent researcher identity: [0009-0006-0745-0380](https://orcid.org/0009-0006-0745-0380). |
+| **SSRN** | Planned dissemination channel for working papers and preprints. No SSRN identifier is listed until a record is public. |
+| **Alpha Stochastic Research** | Official laboratory website, research announcements and project releases. |
+| **Substack** | Research notes and explanatory articles. |
+| **Medium** | Public-facing quantitative-finance articles. |
+| **Discord** | Community collaboration and discussion: [join the ASR community](https://discord.gg/B82eRmmkrx). |
 
 ---
 
@@ -348,7 +388,9 @@ Current and upcoming research outputs will be shared through:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Active-Bachelier%201900-16A34A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Published-Bachelier%20Preprint-16A34A?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/Released-asr--open--sc%20v0.3.2-2563EB?style=for-the-badge">
 <br><br>
 <img src="https://img.shields.io/badge/Active-VaR%20vs%20CVaR-16A34A?style=for-the-badge">
 <br><br>
@@ -389,3 +431,4 @@ Founder & CEO — Alpha Stochastic Research
 <em>Advancing quantitative finance through mathematics, statistics, artificial intelligence and open science.</em>
 
 </div>
+
