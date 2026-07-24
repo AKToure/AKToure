@@ -98,10 +98,12 @@ My objective is to develop rigorous and reproducible quantitative methodologies 
 | Output | Type | Status | Persistent identifier |
 |---|---|---|---|
 | **Bachelier’s Theory of Speculation Revisited: A Reproducible Reconstruction of the Origins of Quantitative Finance** | Preprint | Published on Zenodo | [DOI: 10.5281/zenodo.21385499](https://doi.org/10.5281/zenodo.21385499) |
+| **Deep Hedging under Transaction Costs: An Auditable NumPy Implementation and Exploratory Study** | Preprint | Published on Zenodo | [DOI: 10.5281/zenodo.21519919](https://doi.org/10.5281/zenodo.21519919) |
+| **asr-deep-hedging v0.2.0** | Open-source software | Latest GitHub release | [Repository](https://github.com/Alpha-Stochastic-Research/asr-deep-hedging) · [PyPI](https://pypi.org/project/asr-deep-hedging/) |
 | **Alpha Stochastic Research: Open Research and Reproducibility Framework** | Research report | Published on Zenodo | [DOI: 10.5281/zenodo.21379982](https://doi.org/10.5281/zenodo.21379982) |
 | **asr-open-sc v0.3.2** | Open-source software | Released and archived on Zenodo | [DOI: 10.5281/zenodo.21382430](https://doi.org/10.5281/zenodo.21382430) |
 
-> **Publication status:** The Bachelier preprint is publicly available on Zenodo. An SSRN submission is planned, but no SSRN identifier is claimed until the SSRN record is public.
+> **Publication status:** The Bachelier and Deep Hedging preprints are publicly available on Zenodo. The Deep Hedging implementation is maintained as an open-source Python package with a documented public API. No SSRN identifier is claimed until a public SSRN record exists.
 
 <div align="center">
 
@@ -115,7 +117,56 @@ My objective is to develop rigorous and reproducible quantitative methodologies 
   <img src="https://img.shields.io/badge/asr--open--sc%20v0.3.2-10.5281%2Fzenodo.21382430-1682D4?style=for-the-badge">
 </a>
 
+<a href="https://doi.org/10.5281/zenodo.21519919">
+  <img src="https://img.shields.io/badge/Deep%20Hedging%20Paper-10.5281%2Fzenodo.21519919-1682D4?style=for-the-badge">
+</a>
+<a href="https://github.com/Alpha-Stochastic-Research/asr-deep-hedging/releases">
+  <img src="https://img.shields.io/badge/asr--deep--hedging-v0.2.0-0F766E?style=for-the-badge&logo=github">
+</a>
+<a href="https://pypi.org/project/asr-deep-hedging/">
+  <img src="https://img.shields.io/badge/PyPI-asr--deep--hedging-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
+</a>
+
 </div>
+
+---
+
+## Latest Research Release
+
+<div align="center">
+
+### ASR Deep Hedging v0.2.0
+
+**Deep Hedging under Transaction Costs: An Auditable NumPy Implementation and Exploratory Study**
+
+An open-source and auditable NumPy implementation for neural option hedging under discrete rebalancing and transaction costs.
+
+<a href="https://doi.org/10.5281/zenodo.21519919">
+  <img src="https://img.shields.io/badge/Paper-10.5281%2Fzenodo.21519919-1682D4?style=for-the-badge">
+</a>
+<a href="https://github.com/Alpha-Stochastic-Research/asr-deep-hedging">
+  <img src="https://img.shields.io/badge/GitHub-asr--deep--hedging-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://pypi.org/project/asr-deep-hedging/">
+  <img src="https://img.shields.io/badge/PyPI-v0.2.0-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
+</a>
+
+</div>
+
+```bash
+python -m pip install --upgrade asr-deep-hedging
+```
+
+```python
+from deep_hedging import (
+    Adam,
+    TanhMLP,
+    black_scholes_delta,
+    evaluate_positions,
+    simulate_gbm,
+    train_step,
+)
+```
 
 ---
 
@@ -224,16 +275,26 @@ Risk Management · Portfolio Construction · Time Series Analysis
 <tr>
 <td width="50%" valign="top">
 
-### Deep Hedging
+### Deep Hedging under Transaction Costs
 
-Exploration of machine learning methods for hedging, derivatives pricing and financial decision-making under uncertainty.
+Developed an auditable NumPy framework for discrete-time neural option hedging under transaction costs. The project includes exact empirical CVaR optimization, GBM and Heston simulation, manual network gradients, inventory-aware policies, classical benchmarks, evaluation utilities, automated tests, and a documented public Python API.
 
 **Areas:**  
-Quantitative Finance · Machine Learning · Derivatives · Model Validation
+Quantitative Finance · Deep Hedging · CVaR · Transaction Costs · Stochastic Simulation · Model Validation
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-Research-0F766E?style=flat-square">
+<img src="https://img.shields.io/badge/Preprint-Published-16A34A?style=flat-square">
+<img src="https://img.shields.io/badge/Release-v0.2.0-0F766E?style=flat-square">
+<a href="https://doi.org/10.5281/zenodo.21519919">
+  <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21519919-1682D4?style=flat-square">
+</a>
+<a href="https://github.com/Alpha-Stochastic-Research/asr-deep-hedging">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github">
+</a>
+<a href="https://pypi.org/project/asr-deep-hedging/">
+  <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white">
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -307,7 +368,7 @@ ASR focuses on:
 | **VaR versus CVaR Framework** | Extreme tail-risk and regulatory risk measurement framework | Active research | DOI pending publication |
 | **Portfolio Optimization Engine** | Systematic allocation and portfolio construction research | Planned | Not yet published |
 | **Hierarchical Risk Parity** | Risk-based portfolio allocation and clustering methods | Research | Not yet published |
-| **Deep Hedging Research** | Machine-learning methods for hedging and derivatives | Research | Not yet published |
+| **ASR Deep Hedging** | Auditable NumPy framework for neural option hedging under transaction costs, empirical CVaR optimization, GBM/Heston simulation, benchmarks, and evaluation | **v0.2.0 released · preprint published** | [Paper](https://doi.org/10.5281/zenodo.21519919) · [Repository](https://github.com/Alpha-Stochastic-Research/asr-deep-hedging) · [PyPI](https://pypi.org/project/asr-deep-hedging/) |
 | **Cognitive Offloading Risk** | Probabilistic framework for AI and cognitive-risk modelling | Research | Not yet published |
 | **Agentic Trading Systems** | Research framework for autonomous trading systems | Draft | Not yet published |
 
@@ -389,6 +450,10 @@ ASR focuses on:
 <br><br>
 
 <img src="https://img.shields.io/badge/Published-Bachelier%20Preprint-16A34A?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/Published-Deep%20Hedging%20Preprint-0F766E?style=for-the-badge">
+<br><br>
+<img src="https://img.shields.io/badge/Released-asr--deep--hedging%20v0.2.0-2563EB?style=for-the-badge">
 <br><br>
 <img src="https://img.shields.io/badge/Released-asr--open--sc%20v0.3.2-2563EB?style=for-the-badge">
 <br><br>
