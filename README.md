@@ -1,17 +1,21 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alpha-Stochastic-Research/.github/main/profile/logo.png" alt="Alpha Stochastic Research Logo" width="125">
+<img src="https://raw.githubusercontent.com/Alpha-Stochastic-Research/.github/main/profile/banner.png" alt="Alpha Stochastic Research Banner" width="100%">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Alpha-Stochastic-Research/.github/main/profile/logo.png" alt="Alpha Stochastic Research Logo" width="112">
 
 <h1>Alpha Kabinet TOURE</h1>
 
 <p>
   <strong>Founder & CEO · Alpha Stochastic Research</strong><br>
-  <strong>Quant Research Trainee · D+A Strategies</strong><br>
-  Engineering Student · Université de Technologie de Troyes
+  <strong>Quant Research Trainee · D+A Strategies</strong>
 </p>
 
 <p>
-  Interest Rate Derivatives · Fixed Income Quantitative Finance · Stochastic Modelling · Scientific Computing
+  <strong>Fixed Income Quantitative Finance · Interest Rate Derivatives</strong><br>
+  Term Structures · Stochastic Modelling · Pricing & Hedging · Scientific Computing
 </p>
 
 <br>
@@ -20,19 +24,19 @@
   <img src="https://img.shields.io/badge/ASR-asr--lab.online-0A2540?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 <a href="https://github.com/Alpha-Stochastic-Research">
-  <img src="https://img.shields.io/badge/GitHub-Alpha%20Stochastic%20Research-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Research-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://orcid.org/0009-0006-0745-0380">
   <img src="https://img.shields.io/badge/ORCID-0009--0006--0745--0380-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
 </a>
 <a href="https://zenodo.org/communities/stochastic-research">
-  <img src="https://img.shields.io/badge/Zenodo-ASR%20Community-1682D4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Zenodo-Research%20Archive-1682D4?style=for-the-badge">
 </a>
 
 <br><br>
 
 <a href="https://www.da-strategies.com/">
-  <img src="https://img.shields.io/badge/D%2BA%20Strategies-Trainee%20Program-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/D%2BA%20Strategies-Quant%20Research%20Trainee-111827?style=for-the-badge">
 </a>
 <a href="https://www.asr-lab.online/apply/index.html">
   <img src="https://img.shields.io/badge/ASR-Trainee%20Program-163B65?style=for-the-badge">
@@ -42,93 +46,54 @@
 
 ---
 
-## Profile
+## Quantitative Profile
 
-I am an engineering student at the **Université de Technologie de Troyes (UTT)** and the founder of **Alpha Stochastic Research (ASR)**, an independent quantitative finance research laboratory.
+I work primarily in **Fixed Income Quantitative Finance**, with a particular focus on **Interest Rate Derivatives**.
 
-My primary specialization is **Fixed Income Quantitative Finance**, with a particular focus on **Interest Rate Derivatives**. My work combines term-structure modelling, stochastic processes, derivatives pricing, numerical methods, statistics, machine learning, and scientific computing, with an emphasis on rigorous and reproducible research.
+My interests sit at the intersection of **term-structure modelling, stochastic processes, derivatives pricing, hedging, numerical methods, and quantitative research infrastructure**. I am particularly interested in turning mathematical models into transparent, reproducible implementations that can be tested against financial data and clearly audited.
 
-At **D+A Strategies**, I develop practical experience in quantitative research, market analysis, systematic strategy development, and backtesting through its Trainee Program.
-
----
-
-## Current Roles
-
-| Organization | Role | Focus |
-|---|---|---|
-| **[Alpha Stochastic Research](https://www.asr-lab.online)** | Founder & CEO | Quantitative research · Scientific direction · Open research |
-| **[D+A Strategies](https://www.da-strategies.com/)** | Quant Research Trainee | Quant research · Market analysis · Systematic strategies |
-| **Université de Technologie de Troyes** | Engineering Student | Engineering · Mathematics · Quantitative methods |
+Alongside my engineering studies at the **Université de Technologie de Troyes**, I founded **Alpha Stochastic Research (ASR)** and participate in quantitative research and systematic strategy work through **D+A Strategies**.
 
 ---
 
-## Selected Research
-
-### SSRN
-
-| Research | Area | Record |
-|---|---|---|
-| **Joint Learning of Local-Stochastic Volatility Calibration: A Projection-Constrained Neural Operator Approach** | Derivatives · LSV · Neural Operators | [SSRN 7240319](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7240319) |
-| **ASRQuant: From Scientific Literature to Auditable Quantitative Decisions and Algorithmic Trading** | Quant Research Infrastructure · Scientific Computing | [SSRN 7217798](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7217798) |
-| **From Forecast-Centric to Trading-Aware: A Risk-Constrained Decision Layer for Agentic Financial Time-Series Workflows** | Time Series · Risk · Agentic Systems | [SSRN 7217521](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7217521) |
-| **Non-Asymptotic Stability and Turnover of Risk-Parity Allocations: ERC Smoothness and Hierarchical Boundary Effects** | Portfolio Risk · ERC · Hierarchical Allocation | [SSRN 7187538](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187538) |
-| **Bachelier’s Theory of Speculation Revisited: A Reproducible Reconstruction of the Origins of Quantitative Finance** | Financial Mathematics · Reproducibility | [SSRN 7089998](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7089998) |
-
-### Open Research & Software
-
-| Project | Focus | Access |
-|---|---|---|
-| **Deep Hedging under Transaction Costs** | Neural hedging · CVaR · Transaction costs · Stochastic simulation | [Paper](https://doi.org/10.5281/zenodo.21519919) · [Repository](https://github.com/Alpha-Stochastic-Research/asr-deep-hedging) · [PyPI](https://pypi.org/project/asr-deep-hedging/) |
-| **Bachelier’s Theory of Speculation Revisited** | Brownian motion · Option pricing · Reproducibility | [DOI](https://doi.org/10.5281/zenodo.21385499) |
-| **ASR Open Research & Reproducibility Framework** | Open science · Research governance · Reproducibility | [DOI](https://doi.org/10.5281/zenodo.21379982) |
-| **asr-open-sc** | Scientific research infrastructure | [DOI](https://doi.org/10.5281/zenodo.21382430) |
-
-<div align="center">
-
-<a href="https://www.asr-lab.online/publications/">
-  <img src="https://img.shields.io/badge/Explore-ASR%20Publications-0A2540?style=for-the-badge">
-</a>
-
-</div>
-
----
-
-## Research Interests
+## Core Focus
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Fixed Income & IR Derivatives
+### Rates & Derivatives
 
-- Yield-curve construction
-- Interest-rate derivatives
-- Bonds, FRAs & swaps
-- Caps, floors & swaptions
-- Short-rate modelling
-- Fixed-income risk & hedging
-
-</td>
-<td width="33%" valign="top">
-
-### Mathematical Finance
-
-- Stochastic processes
-- Probability theory
-- Stochastic calculus
-- Numerical methods
-- Optimization
+* Yield-curve construction
+* Discounting & forward rates
+* Bonds, FRAs & swaps
+* Caps, floors & swaptions
+* Interest-rate risk & hedging
+* Multi-curve frameworks
 
 </td>
 <td width="33%" valign="top">
 
-### Quantitative Computing
+### Quantitative Modelling
 
-- Scientific Python
-- Monte Carlo simulation
-- Curve & pricing analytics
-- Machine learning
-- Reproducible research
+* Short-rate models
+* Stochastic processes
+* Monte Carlo methods
+* Calibration & validation
+* Numerical optimization
+* Statistical modelling
+
+</td>
+<td width="33%" valign="top">
+
+### Research Engineering
+
+* Reproducible research
+* Scientific Python
+* Backtesting & evaluation
+* Numerical experiments
+* Open-source research software
+* Technical documentation
 
 </td>
 </tr>
@@ -136,11 +101,42 @@ At **D+A Strategies**, I develop practical experience in quantitative research, 
 
 ---
 
-## Technology Stack
+## Research Record
+
+### Selected SSRN Research
+
+| Research                                                                                                                  | Area                                                 | Record                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Joint Learning of Local-Stochastic Volatility Calibration: A Projection-Constrained Neural Operator Approach**          | Derivatives · LSV · Neural Operators                 | [SSRN 7240319](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7240319) |
+| **ASRQuant: From Scientific Literature to Auditable Quantitative Decisions and Algorithmic Trading**                      | Quant Research Infrastructure · Scientific Computing | [SSRN 7217798](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7217798) |
+| **From Forecast-Centric to Trading-Aware: A Risk-Constrained Decision Layer for Agentic Financial Time-Series Workflows** | Time Series · Risk · Agentic Systems                 | [SSRN 7217521](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7217521) |
+| **Non-Asymptotic Stability and Turnover of Risk-Parity Allocations: ERC Smoothness and Hierarchical Boundary Effects**    | Portfolio Risk · ERC · Hierarchical Allocation       | [SSRN 7187538](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7187538) |
+| **Bachelier’s Theory of Speculation Revisited: A Reproducible Reconstruction of the Origins of Quantitative Finance**     | Financial Mathematics · Reproducibility              | [SSRN 7089998](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7089998) |
+
+### Research Software & Open Work
+
+| Project                                           | Focus                                                             | Access                                                                                                                                                                          |
+| ------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Deep Hedging under Transaction Costs**          | Neural hedging · CVaR · Transaction costs · Stochastic simulation | [Paper](https://doi.org/10.5281/zenodo.21519919) · [GitHub](https://github.com/Alpha-Stochastic-Research/asr-deep-hedging) · [PyPI](https://pypi.org/project/asr-deep-hedging/) |
+| **Bachelier’s Theory of Speculation Revisited**   | Brownian motion · Option pricing · Reproducibility                | [DOI](https://doi.org/10.5281/zenodo.21385499)                                                                                                                                  |
+| **ASR Open Research & Reproducibility Framework** | Research governance · Open science · Reproducibility              | [DOI](https://doi.org/10.5281/zenodo.21379982)                                                                                                                                  |
+| **asr-open-sc**                                   | Scientific research infrastructure                                | [DOI](https://doi.org/10.5281/zenodo.21382430)                                                                                                                                  |
 
 <div align="center">
 
-### Languages & Scientific Computing
+<a href="https://www.asr-lab.online/publications/">
+  <img src="https://img.shields.io/badge/Explore-ASR%20Research%20Record-0A2540?style=for-the-badge">
+</a>
+
+</div>
+
+---
+
+## Technical Stack
+
+<div align="center">
+
+### Scientific Computing
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -150,17 +146,7 @@ At **D+A Strategies**, I develop practical experience in quantitative research, 
 
 <br><br>
 
-### Fixed Income & Interest Rate Quant
-
-<img src="https://img.shields.io/badge/Yield%20Curves-0A2540?style=for-the-badge">
-<img src="https://img.shields.io/badge/Interest%20Rate%20Derivatives-163B65?style=for-the-badge">
-<img src="https://img.shields.io/badge/Fixed%20Income%20Analytics-1E3A8A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Monte%20Carlo-334155?style=for-the-badge">
-<img src="https://img.shields.io/badge/Stochastic%20Models-111827?style=for-the-badge">
-
-<br><br>
-
-### Quantitative Modelling & Machine Learning
+### Quantitative Modelling & ML
 
 <img src="https://img.shields.io/badge/JAX-111827?style=for-the-badge">
 <img src="https://img.shields.io/badge/CVXPY-0A2540?style=for-the-badge">
@@ -169,7 +155,7 @@ At **D+A Strategies**, I develop practical experience in quantitative research, 
 
 <br><br>
 
-### Research & Engineering
+### Research Engineering
 
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -181,9 +167,21 @@ At **D+A Strategies**, I develop practical experience in quantitative research, 
 
 ---
 
+## Current Roles
+
+| Organization                                                | Role                   | Focus                                                                      |
+| ----------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------- |
+| **[Alpha Stochastic Research](https://www.asr-lab.online)** | Founder & CEO          | Quantitative research · Research infrastructure · Scientific direction     |
+| **[D+A Strategies](https://www.da-strategies.com/)**        | Quant Research Trainee | Systematic research · Market analysis · Strategy development & backtesting |
+| **Université de Technologie de Troyes**                     | Engineering Student    | Engineering · Mathematics · Quantitative methods                           |
+
+---
+
 ## Alpha Stochastic Research
 
-**Alpha Stochastic Research** develops rigorous, transparent, and reproducible work across quantitative finance, mathematics, statistics, stochastic modelling, scientific computing, and artificial intelligence.
+I founded **Alpha Stochastic Research** to build a structured environment for quantitative research, reproducible modelling, technical training, and open scientific work.
+
+ASR develops research projects, software, notebooks, publications, and collaborative workflows across quantitative finance and scientific computing.
 
 <div align="center">
 
@@ -191,24 +189,23 @@ At **D+A Strategies**, I develop practical experience in quantitative research, 
   <img src="https://img.shields.io/badge/Website-ASR-0A2540?style=for-the-badge">
 </a>
 <a href="https://www.asr-lab.online/publications/">
-  <img src="https://img.shields.io/badge/Research-Publications-163B65?style=for-the-badge">
-</a>
-<a href="https://www.asr-lab.online/apply/index.html">
-  <img src="https://img.shields.io/badge/Join-Trainee%20Program-1E3A8A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Publications-Research%20Record-163B65?style=for-the-badge">
 </a>
 <a href="https://github.com/Alpha-Stochastic-Research">
   <img src="https://img.shields.io/badge/GitHub-Research%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://www.asr-lab.online/apply/index.html">
+  <img src="https://img.shields.io/badge/Join-ASR%20Trainee%20Program-1E3A8A?style=for-the-badge">
 </a>
 
 </div>
 
 ---
 
-## Research Identity
-
 <div align="center">
 
-**Research · Modelling · Analysis · Impact**
+<strong>Alpha Kabinet TOURE</strong><br>
+Fixed Income Quantitative Finance · Interest Rate Derivatives
 
 <br><br>
 
@@ -224,10 +221,5 @@ At **D+A Strategies**, I develop practical experience in quantitative research, 
 <a href="https://alpha-stochastic-research.substack.com">
   <img src="https://img.shields.io/badge/Substack-Research%20Notes-FF6719?style=flat-square&logo=substack&logoColor=white">
 </a>
-
-<br><br>
-
-<strong>Alpha Kabinet TOURE</strong><br>
-Founder & CEO · Alpha Stochastic Research
 
 </div>
