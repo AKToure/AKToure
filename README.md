@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Alpha-Stochastic-Research/.github/main/profile/banner.png" alt="Alpha Stochastic Research Banner" width="100%">
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/Alpha-Stochastic-Research/.github/main/profile/logo.png" alt="Alpha Stochastic Research Logo" width="125">
 
 <h1>Alpha Kabinet TOURE</h1>
