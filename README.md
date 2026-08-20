@@ -171,7 +171,7 @@ Alongside my engineering studies at the **Université de Technologie de Troyes**
 | ----------------------------------------------------------- | ---------------------- | -------------------------------------------------------------------------- |
 | **[Alpha Stochastic Research](https://www.asr-lab.online)** | Founder & CEO          | Quantitative research · Research infrastructure · Scientific direction     |
 | **[D+A Strategies](https://www.da-strategies.com/)**        | Quant Research Trainee | Systematic research · Market analysis · Strategy development & backtesting |
-| **Université de Technologie de Troyes**                     | Engineering Student    | Engineering · Mathematics · Quantitative methods                           |
+| **Université de Technologie de Troyes**                     | Engineering Student    | Engineering · Mathematics · Operational research                           |
 
 ---
 
