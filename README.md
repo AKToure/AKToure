@@ -3,7 +3,7 @@
 <h1>Alpha Kabinet TOURE</h1>
 
 <p>
-  <strong>Founder & CEO · Alpha Stochastic Research</strong><br>
+  <strong>Co-Founder & CEO · Alpha Stochastic Research</strong><br>
   <strong>Quant Research Trainee · D+A Strategies</strong>
 </p>
 
